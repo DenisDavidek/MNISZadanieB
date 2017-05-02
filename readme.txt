@@ -1,3 +1,6 @@
+UKF - MNIS ZADANIE B
+Vytvorenie stránky v HTML5, CSS, Bootstrap
+Denis Dávidek
 Thanks for downloading this theme!
 
 Theme Name: Amoeba
